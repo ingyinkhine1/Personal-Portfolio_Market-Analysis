@@ -32,4 +32,7 @@ For the interactive dashboard, please kindly download [Maven Market Project_Inte
 
 For the database schema, EER model, kindly follow [this](https://github.com/ingyinkhine1/Personal-Portfolio_Market-Analysis/blob/036ac963af00e6f5662eafb870d3dfd089725879/EER%20Model_Pic.jpg).
 
+For Tableau Interactive Dashboard, kindly follow (https://public.tableau.com/views/ExecutiveOverview_17479888224540/ExeOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+
 
